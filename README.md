@@ -8,6 +8,7 @@ Building backend systems in Go, event streaming with Kafka, and exploring the fr
 
 <br/>
 
+[![Website](https://img.shields.io/badge/abhijitmohanty.com-1a1a1a?style=flat-square&logo=safari&logoColor=white)](https://abhijitmohanty.com)
 [![X](https://img.shields.io/badge/x-1a1a1a?style=flat-square&logo=x&logoColor=white)](https://twitter.com/mohantyabhijit)
 [![LinkedIn](https://img.shields.io/badge/linkedin-1a1a1a?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohantyabhijit)
 
