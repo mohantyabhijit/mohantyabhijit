@@ -1,116 +1,115 @@
 <div align="center">
 
-```
- ░█████╗░██████╗░██╗░░██╗██╗░░░░░██╗██╗██╗████████╗
- ██╔══██╗██╔══██╗██║░░██║██║░░░░░██║██║██║╚══██╔══╝
- ███████║██████╦╝███████║██║░░░░░██║██║██║░░░██║░░░
- ██╔══██║██╔══██╗██╔══██║██║░░░░░██║██║██║░░░██║░░░
- ██║░░██║██████╦╝██║░░██║███████╗██║██║██║░░░██║░░░
- ╚═╝░░╚═╝╚═════╝╚═╝░░╚═╝╚══════╝╚═╝╚═╝╚═╝░░░╚═╝░░░
-```
-
-### Software Engineer · Singapore 🇸🇬
-### Building the future, one commit at a time
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Go+%7C+Kafka+%7C+GenAI+%40+Grab;AI+Engineering+Enthusiast;AI+Coding+Tools+Nerd;Always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a2e&height=200&section=header&text=&animation=fadeIn" width="100%"/>
 
 </div>
-
----
-
-## `> whoami`
-
-```yaml
-name:       Abhijit Mohanty
-role:       Software Engineer
-location:   Singapore 🇸🇬
-company:    Grab
-focus:
-  - Go (backend systems & microservices)
-  - Apache Kafka (event streaming at scale)
-  - GenAI (LLMs, RAG pipelines, AI infra)
-passion:
-  - AI Engineering
-  - AI-powered coding tools
-  - Building things that matter
-```
-
----
-
-## `> ls -la ./stack`
 
 <div align="center">
 
-| Domain | Technologies |
-|--------|-------------|
-| **Languages** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **Streaming** | ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) |
-| **AI / ML** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) |
-| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white) |
-| **Infra** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
-| **AI Tooling** | ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white) |
+```
+        　　　　　　　/\
+        　　　　　　 /  \
+        　　　　　　/    \
+        　　　　　 / ∧∧∧  \
+        　　　　  /  　　　  \
+        ～～～～～～～～～～～～～～～
+        　富士山　　Mt. Fuji　　富士山
+```
+
+### abhijit mohanty
+
+`software engineer` &nbsp;·&nbsp; `singapore 🇸🇬`
 
 </div>
 
----
-
-## `> cat interests.md`
-
-```
-🤖  AI Engineering       — RAG, agents, LLM infra, evaluation pipelines
-⚡  AI Coding Tools      — obsessed with the future of human+AI development
-🔁  Event-Driven Systems — Kafka, async architecture, distributed patterns
-🐹  Go Ecosystem         — idiomatic Go, performance, clean service design
-🚢  Grab Engineering     — scale that serves millions across Southeast Asia
-```
+<br/>
 
 ---
 
-## `> git log --oneline --graph`
+<br/>
+
+**自己紹介 &nbsp;/** &nbsp; about
 
 ```
-* Currently @ Grab → Go · Kafka · GenAI
-* Deep-diving AI Engineering workflows
-* Exploring AI-assisted development at every layer
-* Based in the Lion City — Singapore 🦁
+name      →  Abhijit Mohanty
+role      →  Software Engineer
+location  →  Singapore
+company   →  Grab
 ```
 
----
+<br/>
 
-## `> curl --connect abhijit`
+**仕事 &nbsp;/** &nbsp; work
+
+```
+Go        →  backend systems, microservices, performance
+Kafka     →  event streaming at scale
+GenAI     →  LLMs, RAG pipelines, AI infrastructure
+```
+
+<br/>
+
+**関心 &nbsp;/** &nbsp; interests
+
+```
+AI Engineering     →  agents, evals, LLM infra
+AI Coding Tools    →  the future of how we build software
+```
+
+<br/>
+
+**道具 &nbsp;/** &nbsp; tools
+
+<div align="left">
+
+![Go](https://img.shields.io/badge/Go-1a1a1a?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-1a1a1a?style=flat-square&logo=apachekafka&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-1a1a1a?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1a1a1a?style=flat-square&logo=langchain&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-1a1a1a?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-1a1a1a?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+</div>
+
+<br/>
+
+**統計 &nbsp;/** &nbsp; stats
 
 <div align="center">
 
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white&labelColor=000000)](https://twitter.com/mohantyabhijit)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohantyabhijit)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mohantyabhijit)
+<img src="https://github-readme-stats.vercel.app/api?username=mohantyabhijit&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d0d0d&title_color=e0e0e0&text_color=888888&icon_color=555555" height="150"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohantyabhijit&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=e0e0e0&text_color=888888" height="150"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=mohantyabhijit&theme=dark&hide_border=true&background=0d0d0d&stroke=222222&ring=444444&fire=888888&currStreakLabel=888888&sideLabels=666666&dates=555555&sideNums=aaaaaa&currStreakNum=e0e0e0" height="130"/>
 
 </div>
 
----
+<br/>
 
-## `> cat stats.md`
+**繋がり &nbsp;/** &nbsp; connect
 
-<div align="center">
+[![X](https://img.shields.io/badge/x-1a1a1a?style=flat-square&logo=x&logoColor=white)](https://twitter.com/mohantyabhijit)
+[![LinkedIn](https://img.shields.io/badge/linkedin-1a1a1a?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohantyabhijit)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohantyabhijit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohantyabhijit&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=mohantyabhijit&theme=tokyonight&hide_border=true)
-
-</div>
+<br/>
 
 ---
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════╗
-║   "Ship fast. Learn faster. Stay curious."   ║
-╚══════════════════════════════════════════════╝
-```
+*頂上は霧の中にある*
+<br/>
+<sub>the summit is always in the mist</sub>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mohantyabhijit&style=flat-square&color=00D9FF)
+<br/><br/>
+
+![](https://komarev.com/ghpvc/?username=mohantyabhijit&style=flat-square&color=333333&label=訪問者)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d0d0d&height=100&section=footer" width="100%"/>
