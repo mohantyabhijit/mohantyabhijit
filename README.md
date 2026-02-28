@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="assets/fuji.png" width="80%" alt="Mt. Fuji"/>
+<img src="assets/fuji.png" width="200" alt="Mt. Fuji"/>
+
+<br/>
+
+<img src="assets/dp.jpg" width="120" style="border-radius:50%" alt="Abhijit Mohanty"/>
 
 ### abhijit mohanty
 
