@@ -2,10 +2,6 @@
 
 <img src="assets/fuji.png" width="80%" alt="Mt. Fuji"/>
 
-<br/>
-
-<img src="assets/dp.png" width="100px" style="border-radius:50%" alt="Abhijit Mohanty"/>
-
 ### abhijit mohanty
 
 `software engineer` &nbsp;·&nbsp; `singapore 🇸🇬`
