@@ -1,12 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a2e&height=200&section=header&text=&animation=fadeIn" width="100%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Red_Fuji_southern_wind_clear_morning.jpg/960px-Red_Fuji_southern_wind_clear_morning.jpg" width="400" alt="Red Fuji — Hokusai"/>
+<img src="assets/fuji.png" width="100%" alt="Mt. Fuji"/>
 
 ### abhijit mohanty
 
