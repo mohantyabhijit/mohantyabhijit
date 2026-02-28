@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/fuji.png" width="100%" alt="Mt. Fuji"/>
+<img src="assets/fuji.png" width="80%" alt="Mt. Fuji"/>
 
 ### abhijit mohanty
 
