@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/fuji.png" width="100%" alt="Mt. Fuji"/>
-
 ### abhijit mohanty
 
 Software Engineer at [Grab](https://www.grab.com) · Singapore 🇸🇬
