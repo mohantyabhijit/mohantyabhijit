@@ -6,15 +6,7 @@
 
 <div align="center">
 
-```
-        　　　　　　　/\
-        　　　　　　 /  \
-        　　　　　　/    \
-        　　　　　 / ∧∧∧  \
-        　　　　  /  　　　  \
-        ～～～～～～～～～～～～～～～
-        　富士山　　Mt. Fuji　　富士山
-```
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Red_Fuji_southern_wind_clear_morning.jpg/960px-Red_Fuji_southern_wind_clear_morning.jpg" width="400" alt="Red Fuji — Hokusai"/>
 
 ### abhijit mohanty
 
