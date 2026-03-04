@@ -6,15 +6,15 @@ Joined Github **11** years ago.
 
 | All Time | Last Year | Top languages (last year) |
 |----------|-----------|---------------------------|
-| 📦 **50** public repos | 🔥 **45** commits | ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2050%25) |
-| 🔥 **130** commits | 📝 **0** issues | ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%2037%25) |
+| 📦 **50** public repos | 🔥 **46** commits | ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2051%25) |
+| 🔥 **131** commits | 📝 **0** issues | ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%2036%25) |
 | 📋 **1** issues | 🔀 **11** PRs | ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%208%25) |
-| 🔀 **15** PRs | $\color{Green}{\textsf{+21,260}}$ lines added | ![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%206%25) |
-| ⭐ **35** stars | $\color{Red}{\textsf{-1,542}}$ lines removed | ![Shell](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2389e051&message=Shell%200%25) |
+| 🔀 **15** PRs | $\color{Green}{\textsf{+21,267}}$ lines added | ![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%206%25) |
+| ⭐ **35** stars | $\color{Red}{\textsf{-1,549}}$ lines removed | ![Shell](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2389e051&message=Shell%200%25) |
 
 ## 🚀 Most Active Projects (Last Year)
 
-- [mohantyabhijit](https://github.com/mohantyabhijit/mohantyabhijit) - 19 commits, $\color{Green}{\textsf{+1,268}}$ / $\color{Red}{\textsf{-262}}$
+- [mohantyabhijit](https://github.com/mohantyabhijit/mohantyabhijit) - 20 commits, $\color{Green}{\textsf{+1,275}}$ / $\color{Red}{\textsf{-269}}$
 - [mohantyabhijit.github.io](https://github.com/mohantyabhijit/mohantyabhijit.github.io) - 17 commits, $\color{Green}{\textsf{+10,163}}$ / $\color{Red}{\textsf{-1,237}}$
 - [mf_backtest](https://github.com/mohantyabhijit/mf_backtest) - 3 commits, $\color{Green}{\textsf{+8,457}}$ / $\color{Red}{\textsf{-5}}$
 - [help.dev](https://github.com/mohantyabhijit/help.dev) - 2 commits, $\color{Green}{\textsf{+1,016}}$ / $\color{Red}{\textsf{-0}}$
