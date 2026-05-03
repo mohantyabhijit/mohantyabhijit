@@ -6,15 +6,15 @@ Joined Github **11** years ago.
 
 | All Time | Last Year | Top languages (last year) |
 |----------|-----------|---------------------------|
-| 📦 **56** public repos | 🔥 **193** commits | ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2049%25) |
-| 🔥 **465** commits | 📝 **0** issues | ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%2038%25) |
+| 📦 **56** public repos | 🔥 **194** commits | ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2049%25) |
+| 🔥 **466** commits | 📝 **0** issues | ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%2038%25) |
 | 📋 **1** issues | 🔀 **53** PRs | ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%2010%25) |
-| 🔀 **110** PRs | $\color{Green}{\textsf{+41,409}}$ lines added | ![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%202%25) |
-| ⭐ **35** stars | $\color{Red}{\textsf{-5,213}}$ lines removed | ![TeX](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233D6117&message=TeX%201%25) |
+| 🔀 **110** PRs | $\color{Green}{\textsf{+41,414}}$ lines added | ![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%202%25) |
+| ⭐ **35** stars | $\color{Red}{\textsf{-5,218}}$ lines removed | ![TeX](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233D6117&message=TeX%201%25) |
 
 ## 🚀 Most Active Projects (Last Year)
 
-- [mohantyabhijit](https://github.com/mohantyabhijit/mohantyabhijit) - 80 commits, $\color{Green}{\textsf{+1,611}}$ / $\color{Red}{\textsf{-601}}$
+- [mohantyabhijit](https://github.com/mohantyabhijit/mohantyabhijit) - 81 commits, $\color{Green}{\textsf{+1,616}}$ / $\color{Red}{\textsf{-606}}$
 - [mohantyabhijit.github.io](https://github.com/mohantyabhijit/mohantyabhijit.github.io) - 59 commits, $\color{Green}{\textsf{+17,155}}$ / $\color{Red}{\textsf{-2,016}}$
 - [simpledevutils](https://github.com/mohantyabhijit/simpledevutils) - 25 commits, $\color{Green}{\textsf{+9,034}}$ / $\color{Red}{\textsf{-2,103}}$
 - [suborbuild](https://github.com/mohantyabhijit/suborbuild) - 9 commits, $\color{Green}{\textsf{+2,390}}$ / $\color{Red}{\textsf{-430}}$
