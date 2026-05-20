@@ -6,19 +6,19 @@ Joined Github **11** years ago.
 
 | All Time | Last Year | Top languages (last year) |
 |----------|-----------|---------------------------|
-| 📦 **60** public repos | 🔥 **247** commits | ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2045%25) |
-| 🔥 **519** commits | 📝 **0** issues | ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%2038%25) |
-| 📋 **1** issues | 🔀 **54** PRs | ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%209%25) |
-| 🔀 **111** PRs | $\color{Green}{\textsf{+70,715}}$ lines added | ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%206%25) |
-| ⭐ **35** stars | $\color{Red}{\textsf{-10,845}}$ lines removed | ![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%202%25) |
+| 📦 **60** public repos | 🔥 **259** commits | ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2043%25) |
+| 🔥 **531** commits | 📝 **0** issues | ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%2039%25) |
+| 📋 **1** issues | 🔀 **59** PRs | ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%209%25) |
+| 🔀 **116** PRs | $\color{Green}{\textsf{+71,367}}$ lines added | ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%206%25) |
+| ⭐ **35** stars | $\color{Red}{\textsf{-11,092}}$ lines removed | ![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%202%25) |
 
 ## 🚀 Most Active Projects (Last Year)
 
-- [mohantyabhijit](https://github.com/mohantyabhijit/mohantyabhijit) - 97 commits, $\color{Green}{\textsf{+1,705}}$ / $\color{Red}{\textsf{-695}}$
-- [mohantyabhijit.github.io](https://github.com/mohantyabhijit/mohantyabhijit.github.io) - 63 commits, $\color{Green}{\textsf{+17,170}}$ / $\color{Red}{\textsf{-2,021}}$
+- [mohantyabhijit](https://github.com/mohantyabhijit/mohantyabhijit) - 98 commits, $\color{Green}{\textsf{+1,711}}$ / $\color{Red}{\textsf{-701}}$
+- [mohantyabhijit.github.io](https://github.com/mohantyabhijit/mohantyabhijit.github.io) - 73 commits, $\color{Green}{\textsf{+17,420}}$ / $\color{Red}{\textsf{-2,053}}$
 - [simpledevutils](https://github.com/mohantyabhijit/simpledevutils) - 25 commits, $\color{Green}{\textsf{+9,034}}$ / $\color{Red}{\textsf{-2,103}}$
 - [drama](https://github.com/mohantyabhijit/drama) - 21 commits, $\color{Green}{\textsf{+14,186}}$ / $\color{Red}{\textsf{-3,324}}$
-- [stripe-marketing-fde-application](https://github.com/mohantyabhijit/stripe-marketing-fde-application) - 18 commits, $\color{Green}{\textsf{+16,275}}$ / $\color{Red}{\textsf{-2,212}}$
+- [stripe-marketing-fde-application](https://github.com/mohantyabhijit/stripe-marketing-fde-application) - 19 commits, $\color{Green}{\textsf{+16,671}}$ / $\color{Red}{\textsf{-2,421}}$
 - [suborbuild](https://github.com/mohantyabhijit/suborbuild) - 9 commits, $\color{Green}{\textsf{+2,390}}$ / $\color{Red}{\textsf{-430}}$
 - [mutualfundresearch](https://github.com/mohantyabhijit/mutualfundresearch) - 4 commits, $\color{Green}{\textsf{+761}}$ / $\color{Red}{\textsf{-12}}$
 - [plugsandsockets](https://github.com/mohantyabhijit/plugsandsockets) - 3 commits, $\color{Green}{\textsf{+114}}$ / $\color{Red}{\textsf{-37}}$
