@@ -1,4 +1,4 @@
-# Hi there, I'm Abhijit 👋
+# Hi there, I'm mohantyabhijit 👋
 
 Joined Github **11** years ago.
 
@@ -6,16 +6,16 @@ Joined Github **11** years ago.
 
 | All Time | Last Year | Top languages (last year) |
 |----------|-----------|---------------------------|
-| 📦 **61** public repos | 🔥 **388** commits | ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2034%25) |
-| 🔥 **820** commits | 📝 **1** issues | ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%2029%25) |
-| 📋 **3** issues | 🔀 **98** PRs | ![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%2019%25) |
-| 🔀 **176** PRs | $\color{Green}{\textsf{+134,934}}$ lines added | ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%209%25) |
-| ⭐ **36** stars | $\color{Red}{\textsf{-25,681}}$ lines removed | ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%207%25) |
+| 📦 **61** public repos | 🔥 **396** commits | ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2034%25) |
+| 🔥 **828** commits | 📝 **1** issues | ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%2029%25) |
+| 📋 **3** issues | 🔀 **104** PRs | ![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%2021%25) |
+| 🔀 **182** PRs | $\color{Green}{\textsf{+140,315}}$ lines added | ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%209%25) |
+| ⭐ **36** stars | $\color{Red}{\textsf{-26,085}}$ lines removed | ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%207%25) |
 
 ## 🚀 Most Active Projects (Last Year)
 
-- [mohantyabhijit](https://github.com/mohantyabhijit/mohantyabhijit) - 114 commits, $\color{Green}{\textsf{+1,815}}$ / $\color{Red}{\textsf{-805}}$
-- [second-brain](https://github.com/mohantyabhijit/second-brain) - 114 commits, $\color{Green}{\textsf{+64,086}}$ / $\color{Red}{\textsf{-14,491}}$
+- [second-brain](https://github.com/mohantyabhijit/second-brain) - 120 commits, $\color{Green}{\textsf{+69,459}}$ / $\color{Red}{\textsf{-14,887}}$
+- [mohantyabhijit](https://github.com/mohantyabhijit/mohantyabhijit) - 116 commits, $\color{Green}{\textsf{+1,823}}$ / $\color{Red}{\textsf{-813}}$
 - [mohantyabhijit.github.io](https://github.com/mohantyabhijit/mohantyabhijit.github.io) - 73 commits, $\color{Green}{\textsf{+17,420}}$ / $\color{Red}{\textsf{-2,053}}$
 - [simpledevutils](https://github.com/mohantyabhijit/simpledevutils) - 25 commits, $\color{Green}{\textsf{+9,034}}$ / $\color{Red}{\textsf{-2,103}}$
 - [drama](https://github.com/mohantyabhijit/drama) - 21 commits, $\color{Green}{\textsf{+14,186}}$ / $\color{Red}{\textsf{-3,324}}$
