@@ -6,17 +6,17 @@ Joined Github **11** years ago.
 
 | All Time | Last Year | Top languages (last year) |
 |----------|-----------|---------------------------|
-| 📦 **61** public repos | 🔥 **400** commits | ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2034%25) |
-| 🔥 **832** commits | 📝 **1** issues | ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%2029%25) |
-| 📋 **3** issues | 🔀 **107** PRs | ![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%2021%25) |
-| 🔀 **185** PRs | $\color{Green}{\textsf{+140,670}}$ lines added | ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%209%25) |
-| ⭐ **36** stars | $\color{Red}{\textsf{-26,559}}$ lines removed | ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%207%25) |
+| 📦 **61** public repos | 🔥 **415** commits | ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2033%25) |
+| 🔥 **847** commits | 📝 **1** issues | ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%2030%25) |
+| 📋 **3** issues | 🔀 **111** PRs | ![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%2021%25) |
+| 🔀 **189** PRs | $\color{Green}{\textsf{+141,443}}$ lines added | ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%209%25) |
+| ⭐ **37** stars | $\color{Red}{\textsf{-27,141}}$ lines removed | ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%207%25) |
 
 ## 🚀 Most Active Projects (Last Year)
 
-- [second-brain](https://github.com/mohantyabhijit/second-brain) - 123 commits, $\color{Green}{\textsf{+69,806}}$ / $\color{Red}{\textsf{-15,353}}$
-- [mohantyabhijit](https://github.com/mohantyabhijit/mohantyabhijit) - 117 commits, $\color{Green}{\textsf{+1,831}}$ / $\color{Red}{\textsf{-821}}$
-- [mohantyabhijit.github.io](https://github.com/mohantyabhijit/mohantyabhijit.github.io) - 73 commits, $\color{Green}{\textsf{+17,420}}$ / $\color{Red}{\textsf{-2,053}}$
+- [second-brain](https://github.com/mohantyabhijit/second-brain) - 127 commits, $\color{Green}{\textsf{+69,993}}$ / $\color{Red}{\textsf{-15,371}}$
+- [mohantyabhijit](https://github.com/mohantyabhijit/mohantyabhijit) - 118 commits, $\color{Green}{\textsf{+1,838}}$ / $\color{Red}{\textsf{-828}}$
+- [mohantyabhijit.github.io](https://github.com/mohantyabhijit/mohantyabhijit.github.io) - 83 commits, $\color{Green}{\textsf{+17,999}}$ / $\color{Red}{\textsf{-2,610}}$
 - [simpledevutils](https://github.com/mohantyabhijit/simpledevutils) - 25 commits, $\color{Green}{\textsf{+9,034}}$ / $\color{Red}{\textsf{-2,103}}$
 - [drama](https://github.com/mohantyabhijit/drama) - 21 commits, $\color{Green}{\textsf{+14,186}}$ / $\color{Red}{\textsf{-3,324}}$
 - [stripe-marketing-fde-application](https://github.com/mohantyabhijit/stripe-marketing-fde-application) - 19 commits, $\color{Green}{\textsf{+16,671}}$ / $\color{Red}{\textsf{-2,421}}$
