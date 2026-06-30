@@ -6,16 +6,16 @@ Joined Github **11** years ago.
 
 | All Time | Last Year | Top languages (last year) |
 |----------|-----------|---------------------------|
-| 📦 **61** public repos | 🔥 **470** commits | ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2035%25) |
-| 🔥 **551** commits | 📝 **1** issues | ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%2028%25) |
-| 📋 **2** issues | 🔀 **123** PRs | ![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%2021%25) |
-| 🔀 **127** PRs | $\color{Green}{\textsf{+171,893}}$ lines added | ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%209%25) |
-| ⭐ **37** stars | $\color{Red}{\textsf{-27,624}}$ lines removed | ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%207%25) |
+| 📦 **61** public repos | 🔥 **471** commits | ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2035%25) |
+| 🔥 **1,022** commits | 📝 **1** issues | ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%2028%25) |
+| 📋 **3** issues | 🔀 **123** PRs | ![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%2021%25) |
+| 🔀 **250** PRs | $\color{Green}{\textsf{+171,903}}$ lines added | ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%209%25) |
+| ⭐ **37** stars | $\color{Red}{\textsf{-27,634}}$ lines removed | ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%207%25) |
 
 ## 🚀 Most Active Projects (Last Year)
 
 - [second-brain](https://github.com/mohantyabhijit/second-brain) - 150 commits, $\color{Green}{\textsf{+72,587}}$ / $\color{Red}{\textsf{-15,693}}$
-- [mohantyabhijit](https://github.com/mohantyabhijit/mohantyabhijit) - 139 commits, $\color{Green}{\textsf{+1,955}}$ / $\color{Red}{\textsf{-945}}$
+- [mohantyabhijit](https://github.com/mohantyabhijit/mohantyabhijit) - 140 commits, $\color{Green}{\textsf{+1,965}}$ / $\color{Red}{\textsf{-955}}$
 - [mohantyabhijit.github.io](https://github.com/mohantyabhijit/mohantyabhijit.github.io) - 94 commits, $\color{Green}{\textsf{+45,738}}$ / $\color{Red}{\textsf{-2,654}}$
 - [simpledevutils](https://github.com/mohantyabhijit/simpledevutils) - 25 commits, $\color{Green}{\textsf{+9,034}}$ / $\color{Red}{\textsf{-2,103}}$
 - [drama](https://github.com/mohantyabhijit/drama) - 21 commits, $\color{Green}{\textsf{+14,186}}$ / $\color{Red}{\textsf{-3,324}}$
