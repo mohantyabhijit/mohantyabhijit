@@ -6,15 +6,15 @@ Joined Github **12** years ago.
 
 | All Time | Last Year | Top languages (last year) |
 |----------|-----------|---------------------------|
-| 📦 **65** public repos | 🔥 **813** commits | ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2040%25) |
-| 🔥 **1,706** commits | 📝 **3** issues | ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2022%25) |
+| 📦 **65** public repos | 🔥 **814** commits | ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2040%25) |
+| 🔥 **1,707** commits | 📝 **3** issues | ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2022%25) |
 | 📋 **7** issues | 🔀 **157** PRs | ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%2017%25) |
-| 🔀 **318** PRs | $\color{Green}{\textsf{+294,383}}$ lines added | ![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%2016%25) |
-| ⭐ **38** stars | $\color{Red}{\textsf{-57,854}}$ lines removed | ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%205%25) |
+| 🔀 **318** PRs | $\color{Green}{\textsf{+294,389}}$ lines added | ![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%2016%25) |
+| ⭐ **38** stars | $\color{Red}{\textsf{-57,860}}$ lines removed | ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%205%25) |
 
 ## 🚀 Most Active Projects (Last Year)
 
-- [mohantyabhijit](https://github.com/mohantyabhijit/mohantyabhijit) - 200 commits, $\color{Green}{\textsf{+2,302}}$ / $\color{Red}{\textsf{-1,292}}$
+- [mohantyabhijit](https://github.com/mohantyabhijit/mohantyabhijit) - 201 commits, $\color{Green}{\textsf{+2,308}}$ / $\color{Red}{\textsf{-1,298}}$
 - [second-brain](https://github.com/mohantyabhijit/second-brain) - 161 commits, $\color{Green}{\textsf{+76,535}}$ / $\color{Red}{\textsf{-18,235}}$
 - [hackathon-scrapper](https://github.com/mohantyabhijit/hackathon-scrapper) - 153 commits, $\color{Green}{\textsf{+57,781}}$ / $\color{Red}{\textsf{-14,246}}$
 - [mohantyabhijit.github.io](https://github.com/mohantyabhijit/mohantyabhijit.github.io) - 99 commits, $\color{Green}{\textsf{+46,090}}$ / $\color{Red}{\textsf{-2,785}}$
