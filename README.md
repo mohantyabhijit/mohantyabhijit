@@ -6,15 +6,15 @@ Joined Github **12** years ago.
 
 | All Time | Last Year | Top languages (last year) |
 |----------|-----------|---------------------------|
-| 📦 **69** public repos | 🔥 **884** commits | ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2039%25) |
-| 🔥 **1,777** commits | 📝 **3** issues | ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2027%25) |
+| 📦 **69** public repos | 🔥 **899** commits | ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2039%25) |
+| 🔥 **1,792** commits | 📝 **3** issues | ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2026%25) |
 | 📋 **7** issues | 🔀 **174** PRs | ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%2015%25) |
-| 🔀 **335** PRs | $\color{Green}{\textsf{+308,287}}$ lines added | ![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%2015%25) |
-| ⭐ **38** stars | $\color{Red}{\textsf{-61,184}}$ lines removed | ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%205%25) |
+| 🔀 **335** PRs | $\color{Green}{\textsf{+438,551}}$ lines added | ![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%2014%25) |
+| ⭐ **38** stars | $\color{Red}{\textsf{-56,663}}$ lines removed | ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%205%25) |
 
 ## 🚀 Most Active Projects (Last Year)
 
-- [mohantyabhijit](https://github.com/mohantyabhijit/mohantyabhijit) - 215 commits, $\color{Green}{\textsf{+2,381}}$ / $\color{Red}{\textsf{-1,371}}$
+- [mohantyabhijit](https://github.com/mohantyabhijit/mohantyabhijit) - 216 commits, $\color{Green}{\textsf{+2,386}}$ / $\color{Red}{\textsf{-1,376}}$
 - [second-brain](https://github.com/mohantyabhijit/second-brain) - 161 commits, $\color{Green}{\textsf{+76,535}}$ / $\color{Red}{\textsf{-18,235}}$
 - [hackathon-scrapper](https://github.com/mohantyabhijit/hackathon-scrapper) - 153 commits, $\color{Green}{\textsf{+57,781}}$ / $\color{Red}{\textsf{-14,246}}$
 - [agent-harness](https://github.com/mohantyabhijit/agent-harness) - 117 commits, $\color{Green}{\textsf{+80,945}}$ / $\color{Red}{\textsf{-11,486}}$
@@ -22,8 +22,8 @@ Joined Github **12** years ago.
 - [quizzine](https://github.com/mohantyabhijit/quizzine) - 59 commits, $\color{Green}{\textsf{+2,876}}$ / $\color{Red}{\textsf{-1,001}}$
 - [simpledevutils](https://github.com/mohantyabhijit/simpledevutils) - 25 commits, $\color{Green}{\textsf{+9,034}}$ / $\color{Red}{\textsf{-2,103}}$
 - [drama](https://github.com/mohantyabhijit/drama) - 21 commits, $\color{Green}{\textsf{+14,186}}$ / $\color{Red}{\textsf{-3,324}}$
+- [astra-game](https://github.com/mohantyabhijit/astra-game) - 14 commits, $\color{Green}{\textsf{+146,328}}$ / $\color{Red}{\textsf{-1,677}}$
 - [suborbuild](https://github.com/mohantyabhijit/suborbuild) - 9 commits, $\color{Green}{\textsf{+2,390}}$ / $\color{Red}{\textsf{-430}}$
-- [secondspin](https://github.com/mohantyabhijit/secondspin) - 8 commits, $\color{Green}{\textsf{+16,069}}$ / $\color{Red}{\textsf{-6,203}}$
 
 ## 🤝 Connect with me
 
